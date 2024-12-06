@@ -40,7 +40,7 @@ Três modelos de aprendizado de máquina foram otimizados e avaliados: SVM, Rand
 
 ### **1. Suporte a Vetores (SVM)**
 
-- **Melhores Parâmetros**: `{'C': 1, 'kernel': 'linear', 'degree': 2, 'gamma': 'scale'}`.
+- **Melhores Parâmetros**: `{'C': 1, 'kernel': 'linear', 'degree': 2, 'gamma': 'scale'}`
 - **Desempenho**:
     - **Acurácia Geral**: 93%.
     - **Classe 1 (Kama)**: Precision = 0.87, Recall = 0.87.
@@ -49,7 +49,7 @@ Três modelos de aprendizado de máquina foram otimizados e avaliados: SVM, Rand
 
 ### **2. Random Forest**
 
-- **Melhores Parâmetros**: `{'n_estimators': 50, 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 2}`.
+- **Melhores Parâmetros**: `{'n_estimators': 50, 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 2}`
 - **Desempenho**:
     - **Acurácia Geral**: 92%.
     - **Classe 1 (Kama)**: Precision = 0.86, Recall = 0.80.
@@ -58,7 +58,7 @@ Três modelos de aprendizado de máquina foram otimizados e avaliados: SVM, Rand
 
 ### **3. K-Nearest Neighbors (KNN)**
 
-- **Melhores Parâmetros**: `{'n_neighbors': 5, 'weights': 'distance'}`.
+- **Melhores Parâmetros**: `{'n_neighbors': 5, 'weights': 'distance'}`
 - **Desempenho**:
     - **Acurácia Geral**: 92%.
     - **Classe 1 (Kama)**: Precision = 0.86, Recall = 0.80.
@@ -103,7 +103,7 @@ Três modelos de aprendizado de máquina foram otimizados e avaliados: SVM, Rand
 
 ### **1. Suporte a Vetores (SVM)**
 
-- **Melhores Parâmetros**: `{'C': 1, 'kernel': 'linear', 'degree': 2, 'gamma': 'scale'}.~`
+- **Melhores Parâmetros**: `{'C': 1, 'kernel': 'linear', 'degree': 2, 'gamma': 'scale'}`
 - **Desempenho**:
     - **Acurácia Geral**: 93%.
     - **Classe 1 (Kama)**: Precision = 0.87, Recall = 0.87.
