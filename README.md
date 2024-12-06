@@ -28,7 +28,7 @@ Grupo de número <b>52</b> formado pelos integrantes mencionados abaixo.
 
 ## 📜 Descrição
 
-### **Relatório de Classificação de Grãos com Machine Learning**
+## **Relatório de Classificação de Grãos com Machine Learning**
 
 ### **Contexto do Problema**
 
@@ -91,7 +91,7 @@ Os modelos desenvolvidos são altamente eficazes, com acurácia acima de 90%, su
 
 Com base nos resultados, recomenda-se a implementação do SVM para o ambiente de produção e a contínua avaliação com novos dados para garantir a robustez do modelo.
 
-### **Relatório de Classificação de Grãos com Machine Learning**
+## **Relatório de Classificação de Grãos com Machine Learning**
 
 ### **Contexto do Problema**
 
@@ -145,15 +145,17 @@ Três modelos de aprendizado de máquina foram otimizados e avaliados: SVM, Rand
 
 ### **Separação entre Classes**
 
-Classe 2 (Rosa) apresentou a melhor separação, com precisão e recall perfeitos em todos os modelos. Classes 1 (Kama) e 3 (Canadian) mostraram certa sobreposição, indicando similaridade em algumas características.
+- **Classe 2 (Rosa)** apresentou a melhor separação, com precisão e recall perfeitos em todos os modelos.
+- **Classes 1 (Kama) e 3 (Canadian)** mostraram certa sobreposição, indicando similaridade em algumas características.
 
 ### **Importância das Variáveis**
 
-No Random Forest, Comprimento do Sulco do Núcleo, Área, e Perímetro foram identificados como as variáveis mais importantes para a classificação.
+- No Random Forest, **Comprimento do Sulco do Núcleo**, **Área**, e **Perímetro** foram identificados como as variáveis mais importantes para a classificação.
 
 ### **Modelo Recomendado**
 
-SVM com kernel linear é o modelo recomendado para implementação devido à sua maior acurácia (93%) e desempenho equilibrado. Random Forest é uma alternativa interessante pela interpretabilidade das variáveis.
+- **SVM com kernel linear** é o modelo recomendado para implementação devido à sua maior acurácia (93%) e desempenho equilibrado. 
+- Random Forest é uma alternativa interessante pela interpretabilidade das variáveis.
 
 ### **Conclusão**
 
