@@ -190,7 +190,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-Os arquivos do projeto estão em seu formato original no diretório "src".
+Os arquivos do projeto estão em seu formato original no diretório [src](https://github.com/RM559712/fase4_cap3/tree/main/src). As evidências dos gráficos gerados estão no diretório [graphics](https://github.com/RM559712/fase4_cap3/tree/main/tests/images/graphics).
 
 ## 🗃 Histórico de lançamentos
 
