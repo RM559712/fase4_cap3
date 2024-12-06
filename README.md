@@ -164,7 +164,8 @@ Os modelos desenvolvidos são altamente eficazes, com acurácia acima de 90%, su
 - **Maior precisão**: Minimiza erros humanos.
 - **Consistência**: Garante padrões homogêneos na classificação.
 - **Eficiência**: Reduz o tempo necessário para classificar grandes volumes.
-- Com base nos resultados, recomenda-se a implementação do SVM para o ambiente de produção e a contínua avaliação com novos dados para garantir a robustez do modelo.
+
+Com base nos resultados, recomenda-se a implementação do SVM para o ambiente de produção e a contínua avaliação com novos dados para garantir a robustez do modelo.
 
 ## 📁 Estrutura de pastas
 
