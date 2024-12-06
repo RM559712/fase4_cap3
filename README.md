@@ -79,7 +79,7 @@ Três modelos de aprendizado de máquina foram otimizados e avaliados: SVM, Rand
 ### **Modelo Recomendado**
 
 - **SVM com kernel linear** é o modelo recomendado para implementação devido à sua maior acurácia (93%) e desempenho equilibrado.
-- Random Forest é uma alternativa interessante pela interpretabilidade das variáveis.
+- **Random Forest** é uma alternativa interessante pela interpretabilidade das variáveis.
 
 ### **Conclusão**
 
@@ -155,7 +155,7 @@ Três modelos de aprendizado de máquina foram otimizados e avaliados: SVM, Rand
 ### **Modelo Recomendado**
 
 - **SVM com kernel linear** é o modelo recomendado para implementação devido à sua maior acurácia (93%) e desempenho equilibrado. 
-- Random Forest é uma alternativa interessante pela interpretabilidade das variáveis.
+- **Random Forest** é uma alternativa interessante pela interpretabilidade das variáveis.
 
 ### **Conclusão**
 
